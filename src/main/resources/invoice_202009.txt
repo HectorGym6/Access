@@ -1,0 +1,28 @@
+Articulo: Fiesta Glam
+Tipo: Vestido
+Precio de venta: 70.00
+Coste: 48.1
+Beneficio: 21.89
+--------------------------------------------------
+
+Articulo: Fiesta Glam
+Tipo: Vestido
+Precio de venta: 70.00
+Coste: 48.1
+Beneficio: 21.89
+--------------------------------------------------
+
+Articulo: Snoopy
+Tipo: Camiseta
+Precio de venta: 8.00
+Coste: 5.9
+Beneficio: 2.09
+--------------------------------------------------
+
+Articulo: Friends
+Tipo: Camiseta
+Precio de venta: 8.00
+Coste: 5.9
+Beneficio: 2.09
+--------------------------------------------------
+
